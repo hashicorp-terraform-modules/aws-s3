@@ -14,9 +14,10 @@ Terraform module to create/deploy AWS S3 buckets and related resources
 
 These types of resources are supported:
 
-* [Amazon S3 Public Access Block](https://www.terraform.io/docs/providers/aws/r/s3_bucket_public_access_block.html)
-* [Amazon S3 Bucket](https://www.terraform.io/docs/providers/aws/r/s3_bucket.html)
 * [Amazon S3 Bucket Metrics](https://www.terraform.io/docs/providers/aws/r/s3_bucket_metric.html)
+* [Amazon S3 Bucket Policy](https://www.terraform.io/docs/providers/aws/r/s3_bucket_policy.html)
+* [Amazon S3 Bucket Public Access Block](https://www.terraform.io/docs/providers/aws/r/s3_bucket_public_access_block.html)
+* [Amazon S3 Bucket](https://www.terraform.io/docs/providers/aws/r/s3_bucket.html)
 
 ## Usage
 
