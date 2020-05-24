@@ -111,14 +111,11 @@ Example:
 
 ## Notes
 
-1. This module uses Terraform version > 0.12.x
-2. This module (current) does not add lifecycle rule(s) - WIP
-3. This module (current) does not add server side encryption configuration - WIP
+* This module uses Terraform version > 0.12.x
 
 ## To Do
 
-* Figure out and add the dynamic configuration of server side encryption (with and without using a CMK)
-* Figure out and add the dynamic configuration of lifecycle rule(s)
+* TBD
 
 ## Additional Documentation
 
